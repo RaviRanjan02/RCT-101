@@ -1,0 +1,10 @@
+.disc{
+    list-style: disc;
+}
+
+span:nth-child(1){
+    color:rgb(20, 220, 97)
+}
+span:nth-child(2){
+    color:rgb(220, 133, 20)
+}
