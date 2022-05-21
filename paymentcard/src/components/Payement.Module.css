@@ -1,0 +1,74 @@
+.PaymentCardMain{
+ /* border: 2px solid red; */
+ width: 50%;
+ height: 350px;
+ background-color: #ffa601 ;
+}
+.PaymentCardSubMain{
+    /* border: 2px solid rgb(0, 17, 255); */
+    height: 280px;
+    margin: 10px;
+}
+.PaymentCardDatelogo{
+    height: 70px;
+    /* border: 2px solid black; */
+    align-items: center;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.PaymentCardTypeNext{
+    display: flex;
+    height: 40px;
+    align-items: center;
+    /* border: 2px solid black; */
+    margin: 20px;
+    justify-content: space-between;
+}
+.PaymentCardCasestudy{
+    width: 120px;
+    /* border: 2px solid black; */
+    margin: 20px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    cursor: pointer;
+}
+.PaymentCardGift{
+    width: 250px;
+    /* border: 2px solid black; */
+    margin: 20px;
+    font-size: 40px; 
+    font-weight: bold;
+}
+.PaymentCardPay{
+    width: 70px;
+    margin: 20px;
+    font-size: 40px; 
+    font-weight: bold;
+    /* border: 2px solid black;  */
+}
+.PaymentCardlogo{
+    font-size: 400%;
+    cursor: pointer;
+    margin-top: 50px;
+    /* border: 2px solid black; */
+}
+.PaymentCardType{
+    font-size: 30px; 
+    font-weight: bold;
+}
+.PaymentCardNext{
+    font-weight: bold;
+    font-size: 30px;
+    cursor: pointer;
+}
+.PaymentCardDate{
+    font-weight: bold;
+    font-size: 30px;
+}
+/* .white{
+    background-color: aquamarine;
+} */
